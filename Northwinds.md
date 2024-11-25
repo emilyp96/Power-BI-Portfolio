@@ -1,0 +1,1 @@
+<iframe title="Northwinds sample" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=6207ba0d-0a4c-4204-a60a-759dc28f0566&autoAuth=true&ctid=de6885bf-a46c-4ed2-90d0-7649e309786c" frameborder="0" allowFullScreen="true"></iframe>
