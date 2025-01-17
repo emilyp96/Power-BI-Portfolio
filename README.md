@@ -7,4 +7,4 @@ I used the freely available data in the Microsoft Northwinds Database to develop
 ![PBI Northwinds employee](https://github.com/user-attachments/assets/0ac0432a-e829-41c2-8b50-baf70bfb0dfb)
 ![PBI Northwinds product](https://github.com/user-attachments/assets/9ccf99b5-2f24-4210-a18a-88c6c4eb6447)
 
-Please find the full Power BI report [here](https://github.com/emilyp96/Power-BI-Portfolio/blob/e1840c66114cedefc6774c6c4fb527e155bb16fc/Northwind%20sample.pbix)
+Please find the full Power BI report [here](Northwind sample (2).pbix)
