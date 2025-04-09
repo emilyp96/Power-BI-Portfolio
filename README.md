@@ -1,4 +1,4 @@
-I used the freely available data in the Microsoft Northwinds Database to develop a Power BI report for a hypothetical client. My aim was to transform the data into a digestible format that would allow for better business decisions and improved operations.
+I used the freely available data in the Microsoft Northwinds Database to develop a Power BI report for a project. My aim was to transform the data into a digestible format that would allow for better business decisions and improved operations.
 
 **Dashboard preview:**
 
