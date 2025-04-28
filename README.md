@@ -1,4 +1,6 @@
-I used the freely available data in the Microsoft Northwinds Database to develop a Power BI report for a project. My aim was to transform the data into a digestible format that would allow for better business decisions and improved operations.
+Welcome to my Power BI portfolio!
+
+In the report below, I used the freely available data in the Microsoft Northwinds Database to transform the data into a digestible format that would allow for better business decisions and improved operations.
 
 Key Questions Answered:
 
