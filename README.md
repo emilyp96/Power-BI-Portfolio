@@ -23,7 +23,7 @@ What are the top-selling products by category?<br>
 How do monthly sales trends behave across regions?<br>
 Which employees drive the highest sales performance?<br>
 
-**Dashboard preview:**
+**Preview:**
 
 ![PBI Northwinds overview](https://github.com/user-attachments/assets/a8db16e6-9fa4-4207-87bd-1599876b19a5)
 ![PBI Northwinds customer](https://github.com/user-attachments/assets/ed8cc102-333e-4662-9a37-6edf906b7b0e)
