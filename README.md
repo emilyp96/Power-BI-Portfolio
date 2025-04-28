@@ -2,7 +2,7 @@ Welcome to my Power BI portfolio!
 
 In the report below, I used the freely available data in the Microsoft Northwinds Database to transform the data into a digestible format that would allow for better business decisions and improved operations.
 
-Key Questions Answered:
+**Key Questions Answered:**
 
 Which customers contribute the most to revenue?
 What are the top-selling products by category?
@@ -18,7 +18,7 @@ Which employees drive the highest sales performance?
 
 Please find the full Power BI report [here](https://github.com/emilyp96/Power-BI-Portfolio/blob/main/Northwind%20sample%20(2).pbix)
 
-Skills & Tools Used:
+**Skills & Tools Used:**
 
 DAX (Measures, Calculated Columns)
 Power Query (ETL processes)
