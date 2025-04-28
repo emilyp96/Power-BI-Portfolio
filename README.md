@@ -10,7 +10,11 @@
 
 **Power BI Portfolio**
 
-In the report below, I used the freely available data in the Microsoft Northwinds Database to transform the data into a digestible format that would allow for better business decisions and improved operations.
+Welcome to my Power BI Porfolio. 
+
+Power BI is the perfect tool for me because it seamlessly blends my passion for data with my creative side. I enjoy transforming complex, raw data into clear, interactive visuals that not only tell a story but also empower businesses to make informed, data-driven decisions. The ability to combine advanced DAX measures, efficient ETL processes, and thoughtful design in one platform is what makes Power BI so exciting to me. 
+
+**1.** In the report below, I used the freely available data in the Microsoft Northwinds Database to transform the data into a digestible format that would allow for better business decisions and improved operations.
 
 **Key Questions Answered:**
 
