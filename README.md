@@ -4,7 +4,9 @@
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-FF8C00?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)
 ![Storytelling with Data](https://img.shields.io/badge/Storytelling%20with%20Data-00C4CC?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 **Power BI Portfolio**
 
