@@ -18,10 +18,10 @@ Power BI is the perfect tool for me because it seamlessly blends my passion for 
 
 **Key Questions Answered:**
 
-Which customers contribute the most to revenue?
-What are the top-selling products by category?
-How do monthly sales trends behave across regions?
-Which employees drive the highest sales performance?
+Which customers contribute the most to revenue?<br>
+What are the top-selling products by category?<br>
+How do monthly sales trends behave across regions?<br>
+Which employees drive the highest sales performance?<br>
 
 **Dashboard preview:**
 
